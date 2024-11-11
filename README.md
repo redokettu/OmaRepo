@@ -1,4 +1,4 @@
 # OmaRepo  
 Tämä on minun testirepo
-# Ohjeet
+## Ohjeet
 Tähän tulee ohjeita
